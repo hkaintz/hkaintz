@@ -1,9 +1,16 @@
 ### Hey! Nice to see you. 👋
 
-<p>Welcome to my page! </br> I'm Herbert, a SAP fullstack developer from <img src="./assets/austria.png" width="13"/> <b>Austria</b>.</p>
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Herbert+Kaintz">「 Google Me 」</a>
+    <br>
+    「 I'm Herbert, a SAP fullstack developer from <img src="./assets/austria.png" width="13"/> <b>Austria</b>. 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-### Languages and Tools
-
+### Stuff I work with
 
 <a href="https://ui5.sap.com/" target="_blank"><img height="40" src="./assets/sapui5.png" title="SAPUI5"></a>
 <a href="https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm" target="_blank"><img height="40" src="./assets/abap.png" title="ABAP"></a>
